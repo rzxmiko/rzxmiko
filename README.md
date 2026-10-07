@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dilara%20Shamelova&fontSize=50&animation=fadeIn&fontAlignY=38" />
+</p>
+
 <h1 align="center">Hi there, I'm Dilara! 👋</h1>
 
 <p align="center">
