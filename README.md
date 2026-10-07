@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Dilara! 👋</h1>
 
-<!--
-**rzxmiko/rzxmiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Software Engineering Student | Backend & Web Developer</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/demo/?lines=Software+Engineering+Student;Passionate+about+Clean+Code+%26+Architecture;Exploring+Game+Dev+%26+Mobile+Dev&font=Fira+Code&center=true&width=500&height=50&color=61AFEF&vCenter=true" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💫 About Me
+* 🎓 Studying **Software Engineering**
+* 🛠️ Passionate about **Clean Code**, **Design Patterns**, and **Software Architecture**
+* 🚀 Currently working on web projects and exploring mobile/game development
+* 🎯 Goal: Building scalable, robust, and elegant software solutions
+
